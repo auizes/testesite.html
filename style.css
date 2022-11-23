@@ -1,0 +1,44 @@
+
+.body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.logo{
+    display: flex;
+    
+    
+}
+
+.barra{
+    width: 700px;
+    height: 40px;
+    border-radius: 50px;
+}
+
+
+.container{
+    display: flex;
+    justify-content: space-around;
+
+}
+
+.teste{
+    display: flex;
+}
+
+.contato{
+    padding: 10px;
+    margin: 10px;
+}
+
+#rodape{
+   display: flex;
+   justify-content:space-around;
+   height: 40px;
+   line-height: 40px;
+   font-size: 12px;
+   margin-top: 600px;
+
+}
